@@ -1,0 +1,16 @@
+{
+  "major_filter": "1217",
+  "minor_filter": "23",
+  "saved_nodes": {
+    "10.79.255.118": {
+      "Name": "Hazardous Zone",
+      "MAC": "CC:8D:A2:C1:26:94",
+      "Firmware": "3.4.0"
+    },
+    "10.79.255.31": {
+      "Name": "Restricted Zone",
+      "MAC": "CC:8D:A2:C2:3A:28",
+      "Firmware": "3.4.0"
+    }
+  }
+}

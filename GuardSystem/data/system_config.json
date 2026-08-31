@@ -1,0 +1,9 @@
+{
+  "groq_api_key": "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",
+  "fatigue_thresholds": {
+    "warn": 40,
+    "high": 12000,
+    "crit": 16000,
+    "cooldown": 1800
+  }
+}

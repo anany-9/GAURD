@@ -1,0 +1,6 @@
+customtkinter>=5.2.0
+requests>=2.31.0
+sounddevice>=0.4.6
+numpy>=1.26.0
+lameenc>=1.7.0
+# groq is accessed via the standard requests library (no extra package needed)

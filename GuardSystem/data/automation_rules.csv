@@ -1,0 +1,3 @@
+RuleID,Enabled,RuleName,RuleType,BeaconUUID,TargetWearableIP,ConditionValue,NotifTitle,NotifBody,IsAlert
+7a3d02b8,0,testdist,distance,E2C56DB5-DFFB-48D2-B060-D0F5A71096E0,172.20.28.18,20,Distance,salkfb,0
+1c032e76,1,rishabh,scheduled,vsnfdbl,172.25.226.18,11:22,asfphioi,sd;ghd,0
